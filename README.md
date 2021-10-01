@@ -5,6 +5,7 @@ This contains the final report for the Relay Analyzer 2021 Capstone project by M
 
 Also included are PCB schematics and designs for PCBs designed by Matthew Hengeveld, as well as firmware for STM32F767ZI Nucleo development board used in the project.
 
+![Programmable Power Supply PCB](https://github.com/Hengy/RelayAnalyzerHardware/blob/main/PCB.png)
 
 # Summary of project
 The Relay Analyzer is a test and measurement project that automatically tests and determines several characteristics about a electromechanical relay, including switching times, coil current and voltage, coil resistance and power, and also samples the contacts to produce a waveform of any contact bounce.
